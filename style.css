@@ -53,6 +53,7 @@ img{
     display: block;
     transition: all 0.1s;
     text-align: center;
+	font-size: 14px;
 }
 .main-top a{
     text-decoration: none;
