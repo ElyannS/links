@@ -53,12 +53,11 @@ img{
     display: block;
     transition: all 0.1s;
     text-align: center;
-	font-size: 14px;
 }
 .main-top a{
     text-decoration: none;
     color: #fff;
-    padding: 4% 10%;
+    padding: 4% 8%;
 }
 .main-top:hover{
     background: rgb(44,136,190);
@@ -129,7 +128,7 @@ footer{
     .main-top a{
         text-decoration: none;
         color: #fff;
-        padding: 4% 15%;
+        padding: 4% 10%;
     }
     .main-top:hover{
         background: rgb(44,136,190);
