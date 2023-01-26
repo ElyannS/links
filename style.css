@@ -18,8 +18,6 @@ body{
 .topo{
     width: 100%;
     margin: 40px auto;
-    text-aling: center;
-    aling-items: center;
 }
 .img{
     width: 100%;
@@ -86,14 +84,12 @@ footer{
         width: 100%;
         max-width: 400px;
         margin: 0px auto;
-        padding: 0px 25px;
+        padding: 0px;
       
     }
     .topo{
         width: 100%;
         margin: 40px auto;
-	    text-aling: center;
-    aling-items: center;
     }
     .img{
         width: 100%;
