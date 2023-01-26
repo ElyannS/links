@@ -15,8 +15,6 @@ body{
 	width: 100%;
 	text-aling: center;
     aling-items: center;
-	display: inline-flex;
-	justify-content: space-between;
 }
 .topo{
     width: 100%;
