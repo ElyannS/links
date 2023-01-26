@@ -74,6 +74,7 @@ footer{
 
 @media screen and (min-width: 400px){
     body{
+	background-repeat: no-repeat;
         background: rgb(44,136,190);
         background: linear-gradient(204deg, rgba(44,136,190,1) 1%, rgba(0,0,0,1) 81%);
     }
