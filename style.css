@@ -17,12 +17,13 @@ body{
 }
 .topo{
     width: 100%;
-    margin-top: 40px;
+    margin: 40px auto;
     text-aling: center;
     aling-items: center;
 }
 .img{
     width: 100%;
+    margin: 0 auto;
 }
 img{
     width: 38%;
@@ -90,12 +91,13 @@ footer{
     }
     .topo{
         width: 100%;
-        margin-top: 40px;
+        margin: 40px auto;
 	    text-aling: center;
     aling-items: center;
     }
     .img{
         width: 100%;
+        margin: 0 auto;
     }
     img{
         width: 38%;
