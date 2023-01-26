@@ -13,13 +13,13 @@ body{
     }
 .container{
 	width: 100%;
-	text-aling: center;
-    aling-items: center;
+	
 }
 .topo{
     width: 100%;
     margin-top: 40px;
-    
+    text-aling: center;
+    aling-items: center;
 }
 .img{
     width: 100%;
@@ -91,6 +91,8 @@ footer{
     .topo{
         width: 100%;
         margin-top: 40px;
+	    text-aling: center;
+    aling-items: center;
     }
     .img{
         width: 100%;
