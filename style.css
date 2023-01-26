@@ -10,7 +10,6 @@ body{
     overflow-x: hidden;
     max-width: 100vw;
     height: 100vh;
-	margin: 0;
     }
 .container{
 	width: 100%;
@@ -18,7 +17,7 @@ body{
 .topo{
     width: 100%;
     margin-top: 40px;
-    aling-items: center;
+    text-aling: center;
 }
 .img{
     width: 100%;
